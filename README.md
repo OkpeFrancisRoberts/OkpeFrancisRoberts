@@ -39,5 +39,17 @@ Here are some of the beginner-friendly projects I'm building and improving:
 
 ---
 
+### 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OkpeFrancisRoberts&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=OkpeFrancisRoberts&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OkpeFrancisRoberts&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 > _“Tech is my ticket — and I’m building the ride myself.”_
 
