@@ -18,7 +18,7 @@ I'm currently on a mission to become a world-class software engineer from Nigeri
 ### 🛠️ Current Projects
 Here are some of the beginner-friendly projects I'm building and improving:
 
-- 🏦 [Mini Bank System](https://github.com/OkpeFrancisRoberts/mini-bank-system) – 
+- 🏦 [Mini Bank System](https://github.com/OkpeFrancisRoberts/mini-bank-system) – A simple command-line banking system built in Python. This project allows a user to log in with a username and password, check their balance, deposit money, withdraw funds, and exit the system.
 - 🔐 [ATM Simulator](https://github.com/OkpeFrancisRoberts/atm-simulator) – Python app with balance, deposit, withdraw, and password.
 - 📁 More projects coming as I progress in my journey...
 
