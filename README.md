@@ -36,7 +36,7 @@ Here are some of the beginner-friendly projects I'm building and improving:
 ### 📫 Connect With Me
 - Email: [okpefrancisroberts@gmail.com](mailto:okpefrancisroberts@gmai.com)
 - LinkedIn: [linkedin.com/in/okpefrancisroberts](https://linkedin.com)
-- Twitter: [@okpefrancisroberts](https://twitter.com)
+- Twitter: [@frankfilency](https://twitter.com)
 
 ---
 
@@ -53,21 +53,3 @@ Here are some of the beginner-friendly projects I'm building and improving:
 
 > _“Tech is my ticket — and I’m building the ride myself.”_
 
-# 💫 About Me:
-I'm learning Python, HTML, CSS
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/OkpeFrancisRoberts) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OkpeFrancisRoberts&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OkpeFrancisRoberts&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OkpeFrancisRoberts&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=OkpeFrancisRoberts&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
